@@ -1,3 +1,12 @@
+
+
+
+// What is this?
+// It is a simple abstracted lib that allows you to play audio files with the web audio API 
+
+
+
+
 // Two Examples
 var audioOne   = new audioApiKey("audioOne","A.mp3","mouseover");    // the first parameter is a dom node and the next is the audio file you want to trigger.The third parameter is the event.
 var audioTwo  = new audioApiKey("audioTwo","b.mp3","click");     
